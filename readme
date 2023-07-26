@@ -1,0 +1,15 @@
+Highlights
+
+1. Gatekeeper Operator, new Gatekeeper version
+2. Install Gatekeeper without RHACM (requires OpenShift+)
+3. Gatekeeper-RHACM Integration
+4. Demo using selected Policies from Gatekeeper library
+
+new featueres:
+
+Allows directly embedding Gatekeeper ConstraintTemplates and constraints in an ACM policy.
+Gatekeeper constraint audit results are aggregated back to the ACM Hub when the constraint is embedded in the policy.
+Setting a policy to “inform” mode will set the Gatekeeper constraint’s “enforcementAction” to “warn”.
+Setting a policy to “enforce” mode will set the Gatekeeper constraint’s “enforcementAction” to “deny”.
+Search links for the “Related Resources” section of such policies are available 
+PolicyGenerator support
