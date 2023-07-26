@@ -13,3 +13,10 @@ Setting a policy to “inform” mode will set the Gatekeeper constraint’s “
 Setting a policy to “enforce” mode will set the Gatekeeper constraint’s “enforcementAction” to “deny”.
 Search links for the “Related Resources” section of such policies are available 
 PolicyGenerator support
+
+
+Embrace the Gatekeeper Operator and take control of your Kubernetes policies today!
+Remember to refer to official documentation and guides for detailed installation and usage instructions. Happy policy enforcing!
+
+
+
