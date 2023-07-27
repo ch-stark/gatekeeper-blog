@@ -4,6 +4,7 @@ Highlights
 2. Install Gatekeeper without RHACM (requires OpenShift+)
 3. Gatekeeper-RHACM Integration
 4. Demo using selected Policies from Gatekeeper library
+5. Demo will be based on https://github.com/ch-stark/gatekeeper-examples
 
 new featueres:
 
